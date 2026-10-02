@@ -1,0 +1,6 @@
+{
+  "version": "v1.0.0",
+  "versionCode": 100,
+  "zipUrl": "YOUR_DIRECT_ZIP_DOWNLOAD_URL",
+  "changelog": "https://raw.githubusercontent.com/w-zerox/smart-panel-module/main/changelog.md"
+}
